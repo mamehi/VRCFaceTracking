@@ -222,13 +222,13 @@
     <value>다운로드</value>
   </data>
   <data name="EyeTrackingActive_Text" xml:space="preserve">
-    <value>눈 트래킹 활성화됨</value>
+    <value>시선 추적 활성화됨</value>
   </data>
   <data name="FaceTrackingActive_Text" xml:space="preserve">
     <value>얼굴 트래킹 활성화됨</value>
   </data>
   <data name="EyeTrackingInactive_Text" xml:space="preserve">
-    <value>눈 트래킹 비활성화됨</value>
+    <value>시선 추적 비활성화됨</value>
   </data>
   <data name="FaceTrackingInactive_Text" xml:space="preserve">
     <value>얼굴 트래킹 비활성화됨</value>
